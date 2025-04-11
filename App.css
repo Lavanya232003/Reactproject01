@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.bmi-calculator form {
+  margin-bottom: 20px;
+}
+
+.bmi-calculator input {
+  margin: 10px;
+  padding: 5px;
+  width: 150px;
+}
+
+.bmi-calculator button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.bmi-calculator button:hover {
+  background-color: #45a049;
+}
